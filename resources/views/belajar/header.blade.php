@@ -6,7 +6,7 @@
   <meta name="csrf-token" content="{{ csrf_token() }}">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>
-    APP TUNTUNAN ISLAM
+    APP BELAJAR
   </title>
   <!-- Favicon -->
   <link href="/assets/icon/72x72.png" rel="icon" type="image/png">
@@ -31,7 +31,7 @@
       </button>
       <!-- Brand -->
       <a class="navbar-brand pt-0" href="/api-data">
-        <b>TUNTUNAN ISLAM</b>
+        <b>APP BELAJAR</b>
       </a>
       <!-- User -->
       <ul class="nav align-items-center d-md-none">
@@ -85,7 +85,7 @@
           <div id="sidebar-container" class="sidebar-expanded "><!-- d-* hiddens the Sidebar in smaller devices. Its itens can be kept on the Navbar 'Menu' -->
             <!-- Bootstrap List Group -->
             <ul class="list-group">
-              <a href="/api-data" class="list-group-item list-group-item-action">
+              <a href="/belajar" class="list-group-item list-group-item-action">
                 <div class="d-flex w-100 justify-content-start align-items-center">
                     <span class="fa fa-home  mr-3 " style="color: #399e4b !important;"></span>
                     <span class="menu-collapsed">Dashboard</span>
